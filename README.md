@@ -6,6 +6,8 @@
 
 > Also, feel free to check out [Stowage](https://github.com/aloneguid/stowage) project where ideas from this project went into.
 
+> **January 2023 Update**. Robin Rodrick ([@robinrodrick](https://github.com/robinrodricks)) is continuting with this project by transitioning it into [FluentStorage](https://github.com/robinrodricks/FluentStorage). Thanks Robin and good luck!
+
 ![Slide](doc/slide.svg)
 
 ## About
